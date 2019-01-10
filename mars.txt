@@ -2,8 +2,6 @@ Mars looks red from a distance!
 And it does NOT have any canals.
 Several spacecraft are currently wandering around.
 I made this change on the remote.
-<<<<<<< HEAD
 Hi Mark, I edited your document.
-=======
 Amanda is the best.
->>>>>>> 80ea3b1475c4e736f49a75a89bf8b0ceb3c1d232
+
